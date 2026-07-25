@@ -1,0 +1,6 @@
+{
+  "name": "Agro Kurbani - Partial Kurbani E-Commerce System",
+  "description": "Comprehensive Agro Kurbani E-Commerce platform featuring partial share purchases, farmer listings, order tracking, payment processing, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
